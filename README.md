@@ -3,20 +3,27 @@
  <h1 > SavePass </h1>
 </div>
 
+---
+
+<div align="center">
+  <img src="./assets/images/savepass01.png" alt="preview" width="250"/>
+  
+  <img src="./assets/images/savepass02.png" alt="preview" width="250"/>
+  
+  <img src="./assets/images/savepass03.png" alt="preview" width="250"/>
+  
+ 
+</div>
 
 
-<p align="center">
- <a href="#--sobre-o-projeto">Sobre</a> •
- <a href="#-%EF%B8%8F-funcionalidades">Funcionalidades</a> •
- <a href="#--como-executar-o-projeto">Como executar</a> •
- <a href="#--tecnologias">Tecnologias</a> 
-</p>
 
 
+##  💻 Sobre 
+O SavePass é uma aplicação feita em React Native cujo objetivo é armazenar senhas de diversas plataformas em um só lugar. 
 
-##  💻 Sobre o Desafio
-O projeto SavePass é um aplicativo mobile de gerenciamento de senhas. 
-Com ele podemos cadastrar contas de acesso, como: E-mails, Redes Socias... 
+---
+
+
 
 
 
@@ -26,7 +33,9 @@ Tecnologias utilizadas **React Native**, **TypeScript**.
 
 ##  ⚙️ Funcionalidades
 
-- Cadastro de serviços
+- Listagem geral das contas.
+- Cadastro de novas contas e senhas.
+- Filtragem da lista geral de contas salvas.
 
 
 
@@ -55,15 +64,6 @@ $ yarn
 $ expo start
 
 ```
-
-
-
----
-
-
-
----
-
 
 
 ---
