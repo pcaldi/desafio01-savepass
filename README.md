@@ -18,18 +18,13 @@
 
 
 
-##  💻 Sobre 
-O SavePass é uma aplicação feita em React Native cujo objetivo é armazenar senhas de diversas plataformas em um só lugar. 
+##  💻 Sobre o desafio
+O SavePass é o desafio do Ignite da trilha de React-Native. Nele, praticamos a lógica de programação com TypeScript para criação das funcionalidades desse aplicativo assim como toda estrutura para as requisições do Async-Storage, ou seja o armazenamento local no dispositivo.
+
+
 
 ---
 
-
-
-
-
-Tecnologias utilizadas **React Native**, **TypeScript**.
-
----
 
 ##  ⚙️ Funcionalidades
 
@@ -64,6 +59,21 @@ $ yarn
 $ expo start
 
 ```
+---
+## :rocket: O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+- [Android Studio](https://developer.android.com/studio)
+- [Async Storage](https://react-native-async-storage.github.io/async-storage/docs/usage/)
+- [Expo](https://expo.dev/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [NodeJS](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React-Native](https://reactnative.dev/)
+- [React Navigation](https://reactnavigation.org/)
+- [Styled Components](https://www.styled-components.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Yarn](https://classic.yarnpkg.com/blog/2017/05/12/introducing-yarn/)
+___
 
 
 ---
