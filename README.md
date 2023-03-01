@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="./assets/images/adaptive-icon.png" alt="preview" width="250"/>
- <h1 > SavePass </h1>
+   <a href="#-tecnologias-utilizadas">
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+   </a>
 </div>
+                                                                     
+<h1 align="center">🔑 SavePass</h1>  
 
----
 
 <div align="center">
   <img src="./assets/images/savepass01.png" alt="preview" width="250"/>
